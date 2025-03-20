@@ -1,0 +1,1 @@
+Task-1 is designed to help beginners learn the basics of ASP.NET. It includes a home page, a login form, and a simple table to display data.This version highlights that the project is aimed at learning and covers the basic functionalities of ASP.NET.
